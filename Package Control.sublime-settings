@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"CoffeeScript",
+		"CTags",
+		"Cucumber",
+		"Git",
+		"GitGutter",
+		"Haml",
+		"Package Control",
+		"RSpec",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}
