@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"CTags",
 		"Git",
 		"GitGutter",
 		"GitHub Flavored Markdown Preview",
